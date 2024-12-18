@@ -1,15 +1,15 @@
 # Gym data analysis
 
+<h4 align='center'>
+    🚧 Project in progress 🚧
+</h4>
+
 * [About](#About)
 * [How to use](#how-to-use)
     * [Clone](#Clone)
     * [Where to code](#where-to-code)
 * [Features](#Features)
 * [Technologies](#technologies)
-
-<h4 align='center'>
-    🚧 Project in progress 🚧
-</h4>
 
 # About
 
@@ -28,9 +28,9 @@
     * Low weight
     * Normal weight
     * High weight
-    * Obese I
-    * Obese II
-    * Obese III
+    * Obesity I
+    * Obesity II
+    * Obesity III
 - [X] Create a function to calculate the average number of days male and female go to the gym per week
 - [X] Create a function to separate people into age group
 - [X] Create a function to calculate the most common workout in the gym
